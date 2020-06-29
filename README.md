@@ -8,7 +8,7 @@ There a lot of way to using ionic capacitor in your current react project. Thi i
 After your installation about ReactJS project; you have to do install ionic and android platform.
 
 
-## But first of all:
+## Differences Adding Files:
 
 1: You should create two json files for configuration, as you can see this project in the home folder.(capacitor.config.json and ionic.config.json)
 
