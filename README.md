@@ -1,4 +1,4 @@
-# reactjs_ionic_mobilapp
+# reactjs_ionic-capacitor_mobilapp
 If you have a reactJs web application, you can get output as a cross-platform mobile app with use this method(ionic  capacitor).
 It is faster and more dynamic rather than Apache Cordova(PhoneGap).
 
